@@ -1,0 +1,12 @@
+{
+"companyName": "DefaultCompany",
+"productName": "ffffffff",
+"dataUrl": "473e93542243d6c2ae31bbffe30896cf.unityweb",
+"wasmCodeUrl": "cdb22f3511a1c06443ecf1f6bd19b882.unityweb",
+"wasmFrameworkUrl": "b80944d7a1ce2130a8e3c308634af696.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
